@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orita7/chat-app.git"
+  },
+  "author": "Orit Korn Gol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orita7/chat-app/issues"
+  },
+  "homepage": "https://github.com/orita7/chat-app#readme"
+}
